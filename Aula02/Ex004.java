@@ -18,7 +18,7 @@ public class Ex004 {
         for (int i = 0; i < ano-anoInicial; i++) {
             populacao = populacao * crescimento;
         }
-        return populacao;
+        return populacao; 
     }
 
     private static int calcularAno(double populacaoFinal) {
