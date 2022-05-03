@@ -1,0 +1,16 @@
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.exe
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.deps.json
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.runtimeconfig.json
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.runtimeconfig.dev.json
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.dll
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\ref\Ex03.dll
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\bin\Debug\net5.0\Ex03.pdb
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.csproj.AssemblyReference.cache
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.AssemblyInfoInputs.cache
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.AssemblyInfo.cs
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.dll
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\ref\Ex03.dll
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.pdb
+C:\Users\femou\Desktop\Faculdade\Estrutura de Dados I\Listas Data Structure\Aula06\Ex03\Ex03\obj\Debug\net5.0\Ex03.genruntimeconfig.cache

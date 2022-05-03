@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DkPL5CKC7L5lQEiufWaL4Rwa8hQ/Aa63ZFWQt1Qgksj3Zph6a3VQW27Mb7puUulux22g4LcBPaUes+5Pe9Vhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\femou\\Desktop\\Faculdade\\Estrutura de Dados I\\Listas Data Structure\\Aula06\\Ex01\\Ex01\\Ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\femou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
