@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex11",
+            "request": "launch",
+            "mainClass": "Aula09.Ex11",
+            "projectName": "Listas Data Structure_4827ae59"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex09",
+            "request": "launch",
+            "mainClass": "Aula08.Ex09",
+            "projectName": "Listas Data Structure_4827ae59"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex001",
+            "request": "launch",
+            "mainClass": "Aula06.Ex001",
+            "projectName": "Listas Data Structure_4827ae59"
+        },
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Aula06/Ex01/Ex01/bin/Debug/net5.0/Ex01.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aula06/Ex01/Ex01",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
